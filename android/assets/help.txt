@@ -1,0 +1,18 @@
+sol.png
+wall-limit.png
+map.json
+
+Fichier sauvegarde :
+Version : 1
+width : xxx
+height : xxx
+tileWidth : xxx
+tileHeight : xxx
+tiles : 
+	0 : nomimage
+	1 : nomimage
+liste tiles : 
+	0 : 1,0,1,0,1,0,1,0,1
+	1 : 0,1,0,1,0,1,0,1,0
+tiles collidables :
+	0,1,3,...
